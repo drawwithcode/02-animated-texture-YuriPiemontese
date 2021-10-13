@@ -27,7 +27,7 @@ let walkersNum = 1;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  frameRate(8);
+  frameRate(15);
   console.log(walkers);
 }
 
